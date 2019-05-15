@@ -15,8 +15,6 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Option Explicit
 
-Option Explicit
-
 '    (c) 2019 Shoichi Hayashi(林 祥一)
 '    このコードはGPLv3の元にライセンスします｡
 '    (http://www.gnu.org/copyleft/gpl.html)
